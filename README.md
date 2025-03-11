@@ -54,7 +54,7 @@ O projeto segue uma arquitetura em camadas:
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/melissavalentindev/board-master.git
+   git clone https://github.com/melissavalentindev/Board-tarefas
    ```
 
 2. Navegue até o diretório do projeto:
